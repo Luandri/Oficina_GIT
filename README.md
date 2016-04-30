@@ -1,4 +1,9 @@
 Bom Dia
 
 
-VSF -->
+int Luan
+
+main {
+	Luan = to com fome;
+
+}
