@@ -4,6 +4,6 @@ Bom Dia
 int Luan
 
 main {
-	Luan = to com fome;
+	Luan = não to mais com fome;
 
 }
